@@ -27,4 +27,5 @@ man setrlimit
 
 ## License
 
-
+GNU GPLv3. Please see the attached License.txt file for details.
+Different license terms can be arranged on request.
